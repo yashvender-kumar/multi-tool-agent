@@ -2,7 +2,6 @@
 
 An AI agent that reads a question, decides on its own which tool to use (calculator, PDF search or web search), and answers using the tool's result. Built with LangChain, Groq and Streamlit.
 
-![App Screenshot](screenshot.png)
 
 ## Features
 
